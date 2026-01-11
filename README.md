@@ -38,6 +38,4 @@ This project helps predict **claim likelihood** based on customer, vehicle, and 
 - Helps insurers improve pricing & underwriting decisions
 - Reduces claim losses
 
-## 👤 Author
-Fauzan  
-Aspiring Analytics & Modeling Associate
+
